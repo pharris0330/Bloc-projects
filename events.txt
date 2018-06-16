@@ -1,0 +1,5 @@
+####Questions:
+
+>In your own words, explain the React core concept of encapsulation. Discuss why this React principle is important in application development.
+
+Encapsulation allows for complex or verbose code to be contained and "hidden" from more applicable code lines. The reason for containing this code is to either 1.) sector it off from being tampered with 2.) make the code easier to work with for follow-on developers or 3.) ease the de-bugging process.
